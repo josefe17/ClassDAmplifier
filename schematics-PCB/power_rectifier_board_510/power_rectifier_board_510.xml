@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:/Users/josefe/Dropbox/etsit/TFG/PCB/power_rectifier_board_510/power_rectifier_board_510.sch</source>
+    <date>21/03/2018 16:50:49</date>
+    <tool>Eeschema 4.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>power_rectifier_board_510.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>D_Bridge_+A-A</value>
+      <footprint>custom_bridges:bridge_kbpc_3506</footprint>
+      <libsource lib="device" part="D_Bridge_+A-A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A6B6D17</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>Fuse</value>
+      <footprint>fuseholder:Fuseholder5x20_horiz_open_universal_RSP</footprint>
+      <libsource lib="device" part="Fuse"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A6B709C</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>Transf. out</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="conn" part="Screw_Terminal_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A6B72B7</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>CP</value>
+      <footprint>Capacitors_THT:CP_Radial_D30.0mm_P10.00mm_SnapIn</footprint>
+      <libsource lib="device" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A6B762A</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>CP</value>
+      <footprint>Capacitors_THT:CP_Radial_D30.0mm_P10.00mm_SnapIn</footprint>
+      <libsource lib="device" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A6B766F</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>CP</value>
+      <footprint>Capacitors_THT:CP_Radial_D30.0mm_P10.00mm_SnapIn</footprint>
+      <libsource lib="device" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A6B7696</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>CP</value>
+      <footprint>Capacitors_THT:CP_Radial_D22.0mm_P10.00mm_SnapIn</footprint>
+      <libsource lib="device" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A6B76C5</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>CP</value>
+      <footprint>Capacitors_THT:CP_Radial_D18.0mm_P7.50mm</footprint>
+      <libsource lib="device" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A6B7700</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>Serial link</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="conn" part="Screw_Terminal_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A6B8565</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>DC_A</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="conn" part="Screw_Terminal_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A6B8647</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>DC_B</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="conn" part="Screw_Terminal_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A6B8A8D</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>AC2 in</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="conn" part="Screw_Terminal_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8AF542</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>AC1 in</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="conn" part="Screw_Terminal_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8AF614</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>Transf. 1</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="conn" part="Screw_Terminal_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8AF788</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>Transf. 2</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="conn" part="Screw_Terminal_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8AF7DA</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>Transf. link</value>
+      <footprint>TerminalBlock:TerminalBlock_bornier-2_P5.08mm</footprint>
+      <libsource lib="conn" part="Screw_Terminal_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A8AF897</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="device" part="CP">
+      <description>Polarised capacitor</description>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="D_Bridge_+A-A">
+      <description>Diode bridge (pins: 1=+, 2=AC, 3=-, 4=AC)</description>
+      <footprints>
+        <fp>D?Bridge*</fp>
+        <fp>D?Rectifier*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Bridge_+A-A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="-" type="input"/>
+        <pin num="4" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="Fuse">
+      <description>Fuse, generic</description>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*Terminal*Block*:*</fp>
+        <fp>TerminalBlock*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(J5-Pad1)">
+      <node ref="J5" pin="1"/>
+      <node ref="J5" pin="2"/>
+    </net>
+    <net code="2" name="Net-(J2-Pad1)">
+      <node ref="J4" pin="2"/>
+      <node ref="J4" pin="1"/>
+      <node ref="J2" pin="1"/>
+      <node ref="J2" pin="2"/>
+    </net>
+    <net code="3" name="Net-(J1-Pad1)">
+      <node ref="J3" pin="2"/>
+      <node ref="J3" pin="1"/>
+      <node ref="J1" pin="2"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="4" name="Net-(F1-Pad2)">
+      <node ref="F1" pin="2"/>
+      <node ref="J6" pin="2"/>
+    </net>
+    <net code="5" name="Net-(D1-Pad2)">
+      <node ref="J6" pin="1"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="6" name="Net-(D1-Pad4)">
+      <node ref="F1" pin="1"/>
+      <node ref="D1" pin="4"/>
+    </net>
+    <net code="7" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="D1" pin="3"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="J9" pin="1"/>
+      <node ref="J8" pin="1"/>
+      <node ref="J7" pin="1"/>
+      <node ref="C3" pin="2"/>
+    </net>
+    <net code="8" name="Net-(C1-Pad1)">
+      <node ref="D1" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="J9" pin="2"/>
+      <node ref="J8" pin="2"/>
+      <node ref="J7" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C1" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="C2" pin="1"/>
+    </net>
+  </nets>
+</export>

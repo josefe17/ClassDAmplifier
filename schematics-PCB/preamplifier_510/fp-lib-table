@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Potentiometer_Alps_RK12L_Horizontal)(type KiCad)(uri E:/Documentos/Arduino/PCB/Potentiometer_Alps_RK12L_Horizontal.pretty)(options "")(descr ""))
+  (lib (name Switches)(type KiCad)(uri E:/Documentos/Arduino/PCB/Switches.pretty)(options "")(descr ""))
+)

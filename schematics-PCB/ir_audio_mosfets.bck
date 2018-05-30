@@ -1,0 +1,73 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4001
+D 50V 1A General Purpose Rectifier Diode, DO-41
+K diode
+F http://www.vishay.com/docs/88503/1n4001.pdf
+$ENDCMP
+#
+$CMP 1N4002
+D 100V 1A General Purpose Rectifier Diode, DO-41
+K diode
+F http://www.vishay.com/docs/88503/1n4001.pdf
+$ENDCMP
+#
+$CMP 1N4003
+D 20V 1A General Purpose Rectifier Diode, DO-41
+K diode
+F http://www.vishay.com/docs/88503/1n4001.pdf
+$ENDCMP
+#
+$CMP 1N4004
+D 400V 1A General Purpose Rectifier Diode, DO-41
+K diode
+F http://www.vishay.com/docs/88503/1n4001.pdf
+$ENDCMP
+#
+$CMP 1N4005
+D 600V 1A General Purpose Rectifier Diode, DO-41
+K diode
+F http://www.vishay.com/docs/88503/1n4001.pdf
+$ENDCMP
+#
+$CMP 1N4006
+D 800V 1A General Purpose Rectifier Diode, DO-41
+K diode
+F http://www.vishay.com/docs/88503/1n4001.pdf
+$ENDCMP
+#
+$CMP 1N4007
+D 1000V 1A General Purpose Rectifier Diode, DO-41
+K diode
+F http://www.vishay.com/docs/88503/1n4001.pdf
+$ENDCMP
+#
+$CMP BA157
+D 400V 1A Fast recovery Rectifier Diode, DO-41
+K diode
+F http://diotec.com/tl_files/diotec/files/pdf/datasheets/ba157
+$ENDCMP
+#
+$CMP BA158
+D 600V 1A Fast recovery Rectifier Diode, DO-41
+K diode
+F http://diotec.com/tl_files/diotec/files/pdf/datasheets/ba157
+$ENDCMP
+#
+$CMP BA159
+D 1000V 1A Fast recovery Rectifier Diode, DO-41
+K diode
+F http://diotec.com/tl_files/diotec/files/pdf/datasheets/ba157
+$ENDCMP
+#
+$CMP IRFB4020
+D 200V Vds,18A Id, Single N-Channel Digital Audio HEXFET Power MOSFET, TO-220AB
+K Single N-Channel Digital Audio HEXFET Power MOSFET
+F https://www.infineon.com/dgdl/irfb4020pbf.pdf?fileId=5546d462533600a4015356158ffd1e05
+$ENDCMP
+#
+$CMP MUR120
+K MUR120
+$ENDCMP
+#
+#End Doc Library
